@@ -1,5 +1,8 @@
 # YoutubeVideo-Downloader-MP3Convertor
-A python program that can able to download a youtube video and can extract audio from that video.
+A python program that can able to download  
+1.YouTube videos 
+2.Can download a YouTube playlist
+3.Extract audio from an YouTube video
 
 The prgram flow is as mentioned below.
 Initially there will be no files videos in the directory the program resides.

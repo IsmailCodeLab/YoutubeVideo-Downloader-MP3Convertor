@@ -10,7 +10,7 @@ Step1: Run the main.py file and you asked to choose one of the options.
 
 
 Step2: Choose one of the options.Here I chosed option one.Choose the quality of the video you want to download. I choose low here. Then provide the yotube url.You can provide as many urls you want if you want stop giving inputs then enter stop or STOP.
-<img width="575" alt="Screenshot 2023-07-16 153234" src="https://github.com/IsmailCodeLab/YoutubeVideo-Downloader-MP3Convertor/assets/99345471/24406987-b676-4a2b-a298-a5fa46526316">
+<img width="848" alt="Screenshot 2023-07-16 153234" src="https://github.com/IsmailCodeLab/YoutubeVideo-Downloader-MP3Convertor/assets/99345471/24406987-b676-4a2b-a298-a5fa46526316">
 
 Finally you downloaded the videos. They are found in the dirictory the program resides.
 <img width="848" alt="Screenshot 2023-07-16 153506" src="https://github.com/IsmailCodeLab/YoutubeVideo-Downloader-MP3Convertor/assets/99345471/2b12274b-5b33-4dee-a56b-48824e4683b2">
